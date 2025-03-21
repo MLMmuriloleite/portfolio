@@ -2,6 +2,16 @@
     margin: 0; /*deixa a margem esquera e direita nula*/
     padding: 0; /*deixa a margem superior e inferior nula*/
     box-sizing: border-box; /*cria uma caixa invisivel para o corpo de site*/
-    
+} 
+.topo{
+    background-color: azure; /*cor do fundo do topo do site*/
+    height: 15vh ; /* tamanho do topo do site 15% da tela*/
+}
+
+
+
+
+
+
 
 }
